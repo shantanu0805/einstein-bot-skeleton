@@ -4,5 +4,9 @@
         <members>Bot_reporting_test</members>
         <name>Bot</name>
     </types>
+    <types>
+        <members>spciq_bot_business</members>
+        <name>MlDomain</name>
+    </types>
     <version>46.0</version>
 </Package>
